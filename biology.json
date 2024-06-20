@@ -1,0 +1,71 @@
+{
+  "title": "Advanced Biology Quiz",
+  "description": "Welcome to the advanced biology quiz. Test your knowledge with these challenging questions!",
+  "questions": [
+    {
+      "text": "Which organelle is known as the powerhouse of the cell?",
+      "options": ["Nucleus", "Ribosome", "Mitochondrion", "Golgi apparatus"],
+      "answer": 2
+    },
+    {
+      "text": "What is the main component of plant cell walls?",
+      "options": ["Cellulose", "Chitin", "Glycogen", "Starch"],
+      "answer": 0
+    },
+    {
+      "text": "Which process is responsible for the conversion of genetic information from DNA to mRNA?",
+      "options": [
+        "Replication",
+        "Transcription",
+        "Translation",
+        "Transformation"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "What type of macromolecule are enzymes?",
+      "options": ["Carbohydrates", "Lipids", "Proteins", "Nucleic acids"],
+      "answer": 2
+    },
+    {
+      "text": "Which of the following is a purine base found in DNA?",
+      "options": ["Adenine", "Thymine", "Cytosine", "Uracil"],
+      "answer": 0
+    },
+    {
+      "text": "What is the term for programmed cell death?",
+      "options": ["Necrosis", "Apoptosis", "Autophagy", "Phagocytosis"],
+      "answer": 1
+    },
+    {
+      "text": "Which hormone regulates the amount of glucose in the blood?",
+      "options": ["Insulin", "Adrenaline", "Thyroxine", "Cortisol"],
+      "answer": 0
+    },
+    {
+      "text": "What is the primary function of the large intestine?",
+      "options": [
+        "Nutrient absorption",
+        "Water absorption",
+        "Protein digestion",
+        "Fat digestion"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "Which structure in the human brain is responsible for regulating homeostasis?",
+      "options": ["Cerebellum", "Hypothalamus", "Medulla oblongata", "Pons"],
+      "answer": 1
+    },
+    {
+      "text": "What is the name of the process by which green plants produce their own food?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Fermentation",
+        "Transpiration"
+      ],
+      "answer": 0
+    }
+  ]
+}

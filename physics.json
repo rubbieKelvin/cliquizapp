@@ -1,0 +1,86 @@
+{
+  "title": "Advanced Physics Quiz",
+  "description": "Welcome to the advanced physics quiz. Test your knowledge with these challenging questions!",
+  "questions": [
+    {
+      "text": "Which fundamental force is responsible for the stability of atomic nuclei?",
+      "options": [
+        "Gravitational force",
+        "Electromagnetic force",
+        "Strong nuclear force",
+        "Weak nuclear force"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "What is the SI unit of electric capacitance?",
+      "options": ["Ohm", "Farad", "Henry", "Weber"],
+      "answer": 1
+    },
+    {
+      "text": "Who proposed the uncertainty principle?",
+      "options": [
+        "Albert Einstein",
+        "Niels Bohr",
+        "Werner Heisenberg",
+        "Max Planck"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "In which type of material does superconductivity occur?",
+      "options": [
+        "Insulators",
+        "Semiconductors",
+        "Superfluids",
+        "Certain metals and alloys"
+      ],
+      "answer": 3
+    },
+    {
+      "text": "What is the primary cause of seasons on Earth?",
+      "options": [
+        "Distance from the Sun",
+        "Earth's tilt",
+        "Earth's rotation",
+        "Solar flares"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "What phenomenon explains the bending of light around an object?",
+      "options": ["Refraction", "Reflection", "Diffraction", "Dispersion"],
+      "answer": 2
+    },
+    {
+      "text": "Which particle has the least mass?",
+      "options": ["Proton", "Neutron", "Electron", "Alpha particle"],
+      "answer": 2
+    },
+    {
+      "text": "What is the term for the resistance of an object to changes in its state of motion?",
+      "options": ["Inertia", "Momentum", "Force", "Energy"],
+      "answer": 0
+    },
+    {
+      "text": "Which law states that the entropy of an isolated system never decreases?",
+      "options": [
+        "First law of thermodynamics",
+        "Second law of thermodynamics",
+        "Third law of thermodynamics",
+        "Zeroth law of thermodynamics"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "What is the speed of light in a vacuum?",
+      "options": [
+        "3 × 10^6 m/s",
+        "3 × 10^7 m/s",
+        "3 × 10^8 m/s",
+        "3 × 10^9 m/s"
+      ],
+      "answer": 2
+    }
+  ]
+}

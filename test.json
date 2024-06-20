@@ -1,0 +1,31 @@
+{
+  "title": "Simple Quiz",
+  "description": "Hi, welcome to our quiz app",
+  "questions": [
+    {
+      "text": "What is the color of the sky?",
+      "options": ["Red", "Blue", "Green", "Purple"],
+      "answer": 1
+    },
+    {
+      "text": "What is 2 + 2?",
+      "options": ["3", "4", "5", "6"],
+      "answer": 1
+    },
+    {
+      "text": "What is the capital of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "answer": 2
+    },
+    {
+      "text": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": 1
+    },
+    {
+      "text": "What is the largest mammal?",
+      "options": ["Elephant", "Blue Whale", "Giraffe", "Human"],
+      "answer": 1
+    }
+  ]
+}

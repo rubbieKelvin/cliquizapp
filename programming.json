@@ -1,0 +1,81 @@
+{
+  "title": "Advanced Programming Quiz",
+  "description": "Welcome to the advanced programming quiz. Test your knowledge with these challenging questions!",
+  "questions": [
+    {
+      "text": "Which sorting algorithm has the best average case performance?",
+      "options": ["Bubble sort", "Merge sort", "Quick sort", "Selection sort"],
+      "answer": 2
+    },
+    {
+      "text": "What is the time complexity of accessing an element in a hash table?",
+      "options": ["O(1)", "O(log n)", "O(n)", "O(n log n)"],
+      "answer": 0
+    },
+    {
+      "text": "Which design pattern ensures a class has only one instance and provides a global point of access to it?",
+      "options": ["Factory", "Builder", "Singleton", "Observer"],
+      "answer": 2
+    },
+    {
+      "text": "In which programming language is the concept of 'everything is an object' a key feature?",
+      "options": ["C", "Java", "Python", "C++"],
+      "answer": 2
+    },
+    {
+      "text": "What does SQL stand for?",
+      "options": [
+        "Structured Query Language",
+        "Simple Query Language",
+        "Structured Question Language",
+        "Simple Question Language"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "What does the acronym 'API' stand for?",
+      "options": [
+        "Application Programming Interface",
+        "Application Protocol Interface",
+        "Advanced Programming Interface",
+        "Advanced Protocol Interface"
+      ],
+      "answer": 0
+    },
+    {
+      "text": "Which of the following is a NoSQL database?",
+      "options": ["MySQL", "PostgreSQL", "MongoDB", "SQLite"],
+      "answer": 2
+    },
+    {
+      "text": "What is the purpose of the 'git merge' command in Git?",
+      "options": [
+        "To apply a patch",
+        "To combine multiple commit sequences",
+        "To create a new branch",
+        "To delete a branch"
+      ],
+      "answer": 1
+    },
+    {
+      "text": "Which of these is a fundamental principle of Agile methodology?",
+      "options": [
+        "Comprehensive documentation",
+        "Contract negotiation",
+        "Customer collaboration",
+        "Following a plan"
+      ],
+      "answer": 2
+    },
+    {
+      "text": "In object-oriented programming, what is encapsulation?",
+      "options": [
+        "Hiding the implementation details",
+        "Binding code and data together",
+        "Inheritance of properties",
+        "Overloading methods"
+      ],
+      "answer": 0
+    }
+  ]
+}
